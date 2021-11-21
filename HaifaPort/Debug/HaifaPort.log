@@ -1,0 +1,7 @@
+﻿  HaifaPort.c
+c:\users\chens\desktop\haifaport.c(141): warning C4098: 'initialiseGlobalVars': 'void' function returning a value
+c:\users\chens\desktop\haifaport.c(153): warning C4098: 'initialiseGlobalVars': 'void' function returning a value
+c:\users\chens\desktop\haifaport.c(179): warning C4244: 'function': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\chens\desktop\haifaport.c(222): warning C4101: 'buffer': unreferenced local variable
+c:\users\chens\desktop\haifaport.c(253): warning C4716: 'ship': must return a value
+  HaifaPort.vcxproj -> C:\Users\chens\source\repos\Project16\Debug\HaifaPort.exe
